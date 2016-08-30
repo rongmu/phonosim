@@ -1,0 +1,12 @@
+Package: phonosim
+Title: Phonological Similarity
+Version: 0.1
+Authors@R: person("Shaoyun", "Yu", email = "s.yu@protonmail.com", role = c("aut", "cre"))
+Description: Calculate phonological similarity.
+Depends:
+    R (>= 3.3.1)
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: cba (>= 0.2-17)
+RoxygenNote: 5.0.1
