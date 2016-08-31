@@ -1,6 +1,7 @@
 Package: phonosim
 Title: Phonological Similarity
 Version: 0.1
+Date: 2016-08-30
 Authors@R: person("Shaoyun", "Yu", email = "s.yu@protonmail.com", role = c("aut", "cre"))
 Description: Calculate phonological similarity.
 Depends:
